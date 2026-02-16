@@ -1,2 +1,2 @@
 Hello Git
-This file was edited on the terminal	
+Hello github
